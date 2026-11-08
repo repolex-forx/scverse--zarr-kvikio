@@ -1,0 +1,11 @@
+{
+  "org": "scverse",
+  "repo": "zarr-kvikio",
+  "versions": [
+    {
+      "commit": "d10d27a70e6b5813453ab52cb21728f51cd2411e",
+      "tag": "",
+      "parsed_at": "2026-11-08T03:41:21.818181+00:00"
+    }
+  ]
+}
