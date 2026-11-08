@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scverse/zarr-kvikio/commit/d10d27a70e6b5813453ab52cb21728f51cd2411e",
       "git:hexsha": "d10d27a70e6b5813453ab52cb21728f51cd2411e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
